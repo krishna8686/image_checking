@@ -1,0 +1,23 @@
+﻿  CDataGen.cpp
+e:\workspace\mywork\krishna_cylnr\code\source\cdatagen.cpp(81): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\workspace\mywork\krishna_cylnr\code\source\cdatagen.cpp(88): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CFilterThres.cpp
+  CLabelling.cpp
+e:\workspace\mywork\krishna_cylnr\code\source\clabelling.cpp(420): warning C4018: '<': signed/unsigned mismatch
+e:\workspace\mywork\krishna_cylnr\code\source\clabelling.cpp(431): warning C4018: '<': signed/unsigned mismatch
+e:\workspace\mywork\krishna_cylnr\code\source\clabelling.cpp(485): warning C4018: '<': signed/unsigned mismatch
+  CTracingComp.cpp
+e:\workspace\mywork\krishna_cylnr\code\source\ctracingcomp.cpp(87): warning C4018: '<': signed/unsigned mismatch
+e:\workspace\mywork\krishna_cylnr\code\source\ctracingcomp.cpp(133): warning C4018: '<': signed/unsigned mismatch
+  CUtils.cpp
+  Main.cpp
+  QueueAndLock.cpp
+e:\workspace\mywork\krishna_cylnr\code\source\queueandlock.cpp(42): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+  Generating code
+  All 1309 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  krishna_cylnr.vcxproj -> E:\Workspace\mywork\krishna_cylnr\Release\krishna_cylnr.exe

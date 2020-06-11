@@ -1,0 +1,13 @@
+﻿  CDataGen.cpp
+  CFilterThres.cpp
+  CLabelling.cpp
+e:\workspace\mywork\krishna_cylnr\code\source\clabelling.cpp(396): warning C4018: '<': signed/unsigned mismatch
+e:\workspace\mywork\krishna_cylnr\code\source\clabelling.cpp(405): warning C4018: '<': signed/unsigned mismatch
+e:\workspace\mywork\krishna_cylnr\code\source\clabelling.cpp(454): warning C4018: '<': signed/unsigned mismatch
+  CTracingComp.cpp
+e:\workspace\mywork\krishna_cylnr\code\source\ctracingcomp.cpp(82): warning C4018: '<': signed/unsigned mismatch
+e:\workspace\mywork\krishna_cylnr\code\source\ctracingcomp.cpp(126): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  QueueAndLock.cpp
+  Generating Code...
+  krishna_cylnr.vcxproj -> E:\Workspace\mywork\krishna_cylnr\Win32\Debug\krishna_cylnr.exe
